@@ -17,3 +17,16 @@ se reducirá el esfuerzo requerido y mejorará la calidad e integridad de la inf
 - Niel Emerson Vitorino Aroni
 
 - Luis Fernando Saldivar Leon
+
+
+#INSTRUCCIONES 
+
+- clonar respositorio dentro de la carpeta htdocs de XAMP.
+
+- crear la base de datos en xamp con el nombre :  sistemacolegio.
+
+- importar la base de datos que esta en la carpeta maquetacion con el nombre de sistemaColegio.sql
+
+- ir a la ruta http://localhost/sistema_academias/App/ en el navegador de tu preferencia
+
+- iniciar sesion con usuario y contraseña: luis.
