@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $user = $_POST['usuario'];
     $pass = $_POST['pass'];
 
-    $conexion = mysqli_connect('localhost', 'root', '', 'sistemacolegio');
+    $conexion = mysqli_connect('localhost', 'root', '', 'sistemacolegio', 3307);
 
     if (!$conexion) {
         die('No se pudo conectar: ' . mysqli_connect_error());
